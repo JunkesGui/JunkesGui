@@ -1,6 +1,7 @@
 ## Hello 👋
 
 <h3>I'm Guilherme Junkes, a Backend developer, currently focused on Javascript and Typescript with NodeJS. Welcome to my profile!!</h3>
+<h3>Meu nome é Guilherme Junkes, sou um desenvolvedor Backend, atualmente focado em Javascript e Typescript com NodeJS. Bem-vindo ao meu perfil!!</h3>
 
 <h2 align="left">Languages and Tools:</h2>
 
